@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="vista\Cajas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Cobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Credencial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\DetalleFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\PrincipalBodeguero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\RegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\RegistrarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\TablaInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Turnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

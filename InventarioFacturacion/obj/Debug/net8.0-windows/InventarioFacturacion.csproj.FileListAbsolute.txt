@@ -1,0 +1,85 @@
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.exe
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.deps.json
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.dll
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.pdb
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.Form1.resources
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Credencial.resources
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.dll
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\refint\InventarioFacturacion.dll
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.pdb
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\ref\InventarioFacturacion.dll
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Cajas.resources
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Principal.resources
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Turnos.resources
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Reporte.resources
+C:\Users\USUARIO\Desktop\Workspace\InventarioFacturacion\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Ventas.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Cajas.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Categoria.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Cobrar.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Credencial.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.DetalleFactura.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Principal.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Producto.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.RegistrarEmpleado.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Reporte.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Turnos.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Ventas.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.sourcelink.json
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.exe
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.deps.json
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.dll
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.pdb
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.dll
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\refint\InventarioFacturacion.dll
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.pdb
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\ref\InventarioFacturacion.dll
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.PrincipalBodeguero.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.TablaInventario.resources
+C:\Users\USUARIO\source\repos\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.RegistrarCliente.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.exe
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.deps.json
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.runtimeconfig.json
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.dll
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\bin\Debug\net8.0-windows\InventarioFacturacion.pdb
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.Properties.Resources.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Cajas.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Categoria.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Cobrar.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Credencial.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.DetalleFactura.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Principal.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.PrincipalBodeguero.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Producto.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.RegistrarCliente.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.RegistrarEmpleado.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Reporte.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.TablaInventario.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Turnos.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.vista.Ventas.resources
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.csproj.GenerateResource.cache
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.AssemblyInfoInputs.cache
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.AssemblyInfo.cs
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.sourcelink.json
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.dll
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\refint\InventarioFacturacion.dll
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.pdb
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\InventarioFacturacion.genruntimeconfig.cache
+C:\Users\posad\OneDrive\Escritorio\trabajo herramientas\Software-Inventario-y-Facturacion-0.1.1\Software-Inventario-y-Facturacion-0.1.1\InventarioFacturacion\obj\Debug\net8.0-windows\ref\InventarioFacturacion.dll
